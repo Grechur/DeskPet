@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DeskPet</string>
+    <string name="sign_success">恭喜你获得 <![CDATA[<font size="30">%1$s</font>]]> 金币</string>
+</resources>
